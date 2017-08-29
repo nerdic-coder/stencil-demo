@@ -21,9 +21,7 @@ export class RandomNumber {
 
     render() {
         return (
-        <p>
-            {this.randomNumber}
-        </p>
+            this.randomNumber
         );
     }
 }
