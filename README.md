@@ -31,3 +31,10 @@ To build the app for production, run:
 ```bash
 npm run build
 ```
+
+## Stencil
+Based on Stencil framework
+
+Website: https://stenciljs.com/
+
+Github: https://github.com/ionic-team/stencil
