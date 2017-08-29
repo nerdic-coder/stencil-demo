@@ -1,8 +1,8 @@
 {
-  "name": "@stencil/starter",
+  "name": "@stencil/nerdic-demo",
   "private": true,
-  "version": "0.0.1",
-  "description": "Stencil Starter App",
+  "version": "0.0.2",
+  "description": "Nerdic Coder Stencil Demo App",
   "files": [
     "dist"
   ],
@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/stencil-starter.git"
+    "url": "git+https://github.com/TheNerdicCoder/stencil-demo.git"
   },
-  "author": "Ionic Team",
+  "author": "The Nerdic Coder",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ionic-team/stencil"
+    "url": "https://github.com/TheNerdicCoder/stencil-demo/issues"
   },
-  "homepage": "https://github.com/ionic-team/stencil"
+  "homepage": "https://github.com/TheNerdicCoder/stencil-demo"
 }
